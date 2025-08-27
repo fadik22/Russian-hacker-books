@@ -4,7 +4,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/fadik22/Russian-hacker-books?style=for-the-badge)](https://github.com/fadik22/Russian-hacker-books/network/members)
 [![Contributors](https://img.shields.io/github/contributors/fadik22/Russian-hacker-books?style=for-the-badge)](https://github.com/fadik22/Russian-hacker-books/graphs/contributors)
 
-> Коллекция тщательно отобранных русскоязычных книг и материалов по кибербезопасности, этичному хакингу, программированию и смежным темам. Знания — это сила, используй ее во благо.
+> Коллекция от автора fadik22 в которой собрано тщательно отобранные русскоязычные книги и материалов по кибербезопасности, этичному хакингу, программированию и смежным темам.
 
 Этот репозиторий создан для хакеров, профессионалов в области информационной безопасности и кибербезопасности, которые предпочитают учиться по материалам на русском языке.
 
